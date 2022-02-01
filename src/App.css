@@ -1,0 +1,16 @@
+.descrption {
+    font-family:"Roboto";
+    font-size:20px;
+    color:000000000;
+    font-weight: 500;
+}
+.icon {
+    color:#578a9e;
+    width:5%;
+}
+.container {
+    
+    background-size: cover;
+    min-height: 100vh;
+    
+}
